@@ -1,3 +1,10 @@
 apple
+<<<<<<< HEAD
+banana
+orange
+mango
+cherry
+=======
 change this line from github
 cherry
+>>>>>>> cf6f5eb3e34e62e1f42ca4831c667bd49249df10
